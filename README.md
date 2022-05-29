@@ -1,4 +1,4 @@
-# Microsoft-Engage
-Movie Recommendation System (Item-Item Similarity) with Frontend. It creates a web based application using Streamlit. Uses Content based recommendation system to suggest similar movies with the help of cosine 
+# movie-recommendation-system
+A simple end-to-end application to recommend movies.
 
-This project uses datasets 
+![](sample.gif)
