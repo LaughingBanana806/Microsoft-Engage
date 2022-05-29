@@ -4,9 +4,9 @@ Movie recommendation system using content based or item to item similarity. It d
 
 
 # Prerequisites
-Install Pycharm
-Install python
-Install anaconda
+Install Pycharm.
+Install python.
+Install anaconda.
 
 
 
